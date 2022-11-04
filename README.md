@@ -1,1 +1,2 @@
-# ZEA_Python_Lab6
+# Python - 6th Lab
+![Screenshot](Screenshot.png)
